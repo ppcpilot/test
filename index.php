@@ -15,7 +15,7 @@
 				}
 			?>
 			<div style="background-color:#006D9C; color:#FFFFFF; padding:10px;"><b>PDO MySQL</b></div>
-			<div style="margin: 15px">
+			<div style="margin: 15px">asfasfaf
 				Welcome guest !
 				<br>
 				<a href="login.php">Login</a> <br>
